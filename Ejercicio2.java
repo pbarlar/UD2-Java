@@ -8,11 +8,17 @@ class Ejercicio2 {
        byte numerodeHijos;
        byte iva;
        byte tallacamisa;
-       short peso;
+       float peso;
        int precio;
        boolean alumnoRepetidor;
-       
-       
-       
+       String Mensaje;
+       char letra;
+       byte mayoredad;
+       short minutos;
+       short dias;
+       String matricula;
+       int contador;
+       boolean mayorDeEdad;
+       String TallaCamiseta;
     }
 }
