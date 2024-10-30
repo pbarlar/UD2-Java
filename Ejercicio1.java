@@ -7,6 +7,6 @@ class Ejercicio1 {
         long contador=2147483647;
         short indicador=12333;
         int indice=1;
-        System.out.println(b);
+        double precio=12.359, precioFinal=34.98;
     }
    }
